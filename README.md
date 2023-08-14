@@ -12,8 +12,8 @@
 
 
 
-
-> ### Stack: 
+^
+### Stack: 
 **Python:** Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 **Sql**
