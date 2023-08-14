@@ -17,3 +17,5 @@
 [instagram]: https://www.instagram.com/pavel.sadovskiy/
 [telegram]: https://t.me/pavel_sadovskii
 
+
+Stek: **Python:** Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras; **Sql**
