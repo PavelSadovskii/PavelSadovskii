@@ -13,15 +13,6 @@
 
 **Sql**
 
-**My repositories:**
-
-[Project1]
-
-
-
-
-
-
 
 
 ### Connect with me:
