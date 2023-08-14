@@ -5,13 +5,6 @@
 - 🥅 2023 Goals: I want to find my first job in IT
 - ⚡ Fun fact: I have a Polish surname, and I have been living in Poland for the second year, but these are two unrelated facts.
 
-### Connect with me:
-[<img align="left" alt="pavel_sadovskii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pavel_sadovskii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="pavel_sadovskii | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram] 
-
-
-
 
 
 
@@ -19,6 +12,14 @@
 **Python:** Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 **Sql**
+
+
+### Connect with me:
+[<img align="left" alt="pavel_sadovskii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pavel_sadovskii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pavel_sadovskii | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram] 
+
+
 <br />
 
 
