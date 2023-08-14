@@ -8,10 +8,12 @@
 ### Connect with me:
 [<img align="left" alt="pavel_sadovskii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pavel_sadovskii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pavel_sadovskii | Instagram" width="22px" src="https://www.flaticon.com/ru/free-icon/telegram-logo_87413?term=telegram&page=1&position=1&origin=search&related_id=87413" />][telegram]
 <br />
 
 
 [Yandex.Practicum]: https://practicum.yandex.ru/
 [linkedin]: https://www.linkedin.com/in/pavel-sadovskii-9067a9250/
 [instagram]: https://www.instagram.com/pavel.sadovskiy/
+[telegram] :https://t.me/@pavel_sadovskii/
 
