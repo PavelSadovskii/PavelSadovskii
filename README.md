@@ -8,7 +8,7 @@
 ### Connect with me:
 [<img align="left" alt="pavel_sadovskii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pavel_sadovskii | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="pavel_sadovskii | Telegram" width="22px" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" />][telegram] 
+[<img align="left" alt="pavel_sadovskii | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram] 
 <br />
 
 
