@@ -15,5 +15,5 @@
 [Yandex.Practicum]: https://practicum.yandex.ru/
 [linkedin]: https://www.linkedin.com/in/pavel-sadovskii-9067a9250/
 [instagram]: https://www.instagram.com/pavel.sadovskiy/
-[telegram] :https://t.me/@pavel_sadovskii/
+[telegram]: https://t.me/@pavel_sadovskii/
 
