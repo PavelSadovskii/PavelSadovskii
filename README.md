@@ -11,7 +11,9 @@
 [<img align="left" alt="pavel_sadovskii | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram] 
 
 
-Stack: 
+
+
+### Stack: 
 **Python:** Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 **Sql**
