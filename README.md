@@ -1,8 +1,8 @@
 ### Hi there, I'm Pavel Sadovskii
 
 ## I'm a Data Scientist!
-- 🔭 I just finished studying at [Yandex.Practicum]
-- 🥅 2023 Goals: I want to find my first job in IT
+- 🔭 I've completed studying at [Yandex.Practicum], but I don't have any work experience
+- 🥅 2024 Goals: I want to find my first job in IT
 - ⚡ Fun fact: I have a Polish surname, and I have been living in Poland for the second year, but these are two unrelated facts
 
 
