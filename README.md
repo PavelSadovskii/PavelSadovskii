@@ -2,8 +2,8 @@
 
 ## I'm a Data Scientist!
 - 🔭 I've completed studying at [Yandex.Practicum], but I don't have any work experience
-- 🥅 2024 Goals: I want to find my first job in IT
-- ⚡ Fun fact: I have a Polish surname, and I have been living in Poland for the third year, but these are two unrelated facts
+- 🥅 2025 Goals: I want to find my first job in IT
+- ⚡ Fun fact: I have a Polish surname, and I have been living in Poland for almost four year, but these are two unrelated facts
 
 
 
