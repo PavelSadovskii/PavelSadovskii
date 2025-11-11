@@ -1,9 +1,9 @@
 ### Hi there, I'm Pavel Sadovskii
 
-## I'm a Data Scientist!
+## I'm a first-year Artificial Intelligence student at Johannes Kepler University Linz
 - 🔭 I've completed studying at [Yandex.Practicum], but I don't have any work experience
 - 🥅 2025 Goals: I'm going to find my first job in IT
-- ⚡ Fun fact: I have a Polish surname, and I have been living in Poland for almost four year, but these are two unrelated facts
+- ⚡ Fun fact: I have a Polish surname, and I have been lived in Poland for almost four year, but these are two unrelated facts
 
 
 
