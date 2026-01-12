@@ -30,8 +30,24 @@
 [instagram]: https://www.instagram.com/pavel.sadovskiy/
 [telegram]: https://t.me/pavel_sadovskii
 
+## Current Project
 
-# Data Science projects
+### [SkillSlide](https://github.com/PavelSadovskii/SkillSlide)  
+**Interactive learning platform** that transforms lecture notes, PDFs, and slides into structured topics with multi-level explanations, quizzes, and visual aids. SkillSlide is designed to help students learn more efficiently by combining text, visuals, and gamified exercises.
+
+**Tech stack:** Python, FastAPI, SQLAlchemy, PDF processing, Matplotlib, OpenAI API (future integration)  
+
+**Features (MVP):**
+- Upload files and automatically split into topics  
+- Multi-level lesson explanations (school → student → technical)  
+- Quizzes to check understanding  
+- Visuals and graphs extracted from slides or generated automatically  
+- Multi-subject support  
+
+
+
+
+# Previous Data Science Projects
 
 
 
